@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+.navbar-default{
+    border:none;background: none;background-color:#2FBFCA;
+}
+.navbar>.container .navbar-brand{font-family: 'Lobster', cursive;color:#DFDBD0;font-size:40px;}
+
+.navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>li>a:hover{
+    color:#DFDBD0; background-color: #EF704D;
+}
+
+.navbar-default .navbar-nav>li>a{color:#DFDBD0; background-color: #2fbfca;  
+}
+.navbar-default .navbar-toggle{border-color:#DFDBD0;background-color:#EF704D;
+}
+.navbar-default .navbar-toggle:hover{border-color:#DFDBD0;background-color:#2fbfca;}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #DFDBD0;
+}
+.navbar-inverse{
+    border:none;background: none;background-color:#2FBFCA;
+}
+
+.navbar-inverse .navbar-text a{color: #DFDBD0;}
+.navbar-inverse .navbar-text a:hover{color: black;}
+.soc_icon{
+    padding-right: 0.5em;
+    color: #DFDBD0;
+}
+.soc_detail{
+    color: #DFDBD0;
+    font-family:arial;
+    font-weight: lighter;
+    padding-left: 0.5em;
+}
+
+.home{
+    margin-top:-20px;
+    background-color: #DFDBD0;
+    text-align: center;
+    padding:7em;
+    height: 900px;
+}
+h1{
+    margin-top:5px;
+    font-family: 'Lobster', cursive;
+    color:#EF704D;
+    letter-spacing:0.03em;
+    padding:0.5em;
+}
+h5{
+    padding:0.5em;
+    font-size: 18px;
+    color: #204C57;
+    font-family: 'Lobster', cursive;
+    letter-spacing:0.03em;
+}
+ul>li{
+    list-style-type: square;
+    padding:0.5em;
+    padding-left:1em
+    font-size: 18px;
+    color: #EF704D;
+    font-family: 'Lobster', cursive;
+    letter-spacing:0.03em;    
+}
+.about{
+    margin-top:-10px;
+    background-color: #2FBFCA;
+}
+.skill{
+    margin-top:-10px;
+    background-color: #DFDBD0;
+}
+#portfolio{
+    background-color: #DFDBD0;
+}
+.thumbnail{
+    margin-top: 10px;
+}
